@@ -25,7 +25,7 @@ __**AutoML**__
 
 Python: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-train
 
-UI: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-portal-experiments
+UI: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automated-ml-for-ml-models
 
 __**Compute**__
 
