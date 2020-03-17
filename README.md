@@ -1,8 +1,6 @@
 # AzureML Walkthrough
 Tutorials on different modules of Azure ML 
 
-## Work in progress
-
 __**Workspace**__
 
 What is a Workspace? https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace
