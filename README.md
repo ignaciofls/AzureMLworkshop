@@ -21,6 +21,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automo
 
 https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy
 
+Other samples: https://github.com/Azure/MachineLearningDesigner/tree/master/articles/samples
+
+
 __**AutoML**__
 
 Python: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-train
